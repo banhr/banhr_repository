@@ -8,3 +8,4 @@ A new branch dev was created--future.
 >>>>>>> future2
 12345
 new dev commit 
+last commit is unsuccessful
